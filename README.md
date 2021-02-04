@@ -1,7 +1,7 @@
 # python-api-challenge
-This respository contains code for two analysis:
+This respository contains code for two analysis: Weather Analysis and Vacation Analysis
     
-    * Weather Analysis
+        * Weather Analysis
         Using api.openweathermap.org, pulled weather data for a cities within a csv file and plotted the following:
         - Temperature (F) vs. Latitude
         - Humidity (%) vs. Latitude
@@ -12,7 +12,7 @@ This respository contains code for two analysis:
 
         Final output of this was saved as a csv file.
     
-    *Vacation Analysis
+        *Vacation Analysis
         Using the csv file created as part of the weather analysis, performed the following:
         -Drop any cities in the csv file that did not meet all three of the following conditions:
             * A max temperature lower than 80 degrees but higher than 70
